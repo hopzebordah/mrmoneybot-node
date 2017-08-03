@@ -1,0 +1,17 @@
+{
+  "name": "mrmoneybot-node",
+  "version": "0.0.1",
+  "description": "it's mrmoneybot bro",
+  "main": "bot.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "fs": "0.0.1-security",
+    "twit": "^2.2.9"
+  },
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "keywords": [],
+  "author": "alex peters",
+  "license": "MIT"
+}

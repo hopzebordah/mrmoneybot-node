@@ -5,7 +5,7 @@ DEPENDENCIES: dotenv twit
 
 YOU MUST EDIT THE .env AND config.js FILES WITH YOUR PARTICULAR INFORMATION
 
-THE BOT WILL NOT FUNCTION WITHOUT YOUR PRELIMINARY SETUP REEEEEEEEEEEEEEEEE
+THE BOT WILL NOT FUNCTION WITHOUT YOUR PRELIMINARY SETUP
 
 the bot draw creds (like keys and such) from a .env file.
 additional info is needed inside the config.js file
